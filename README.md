@@ -51,4 +51,7 @@ Some versions of this project also include a Project Workspace page in the class
 
 
 ### Credits
+Udacity Mentors
+GIT <https://git-scm.com>
+Stack Over Flow < https://stackoverflow.com/>
 
